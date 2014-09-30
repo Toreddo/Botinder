@@ -3,12 +3,12 @@
   "version": "1.7.0",
   "devDependencies": {
     "bower": "latest",
-    "gulp": "latest",
+    "gulp": "^3.4.0",
     "gulp-clean": "latest",
+    "gulp-concat": "latest",
+    "gulp-ember-handlebars": "latest",
     "gulp-sass": "latest",
     "gulp-watch": "latest",
-    "gulp-concat": "latest",
-    "run-sequence": "latest",
-    "gulp-ember-handlebars": "latest"
+    "run-sequence": "latest"
   }
 }
